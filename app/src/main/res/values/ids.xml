@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sensorVal" type="id" />
+    <item name="nav_home" type="id" />
+    <item name="nav_map" type="id" />
+    <item name="nav_emergency" type="id" />
+</resources>
